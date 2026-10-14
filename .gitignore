@@ -1,0 +1,6 @@
+snap_profile/
+.env
+targets.txt
+__pycache__/
+*.json
+*.log
